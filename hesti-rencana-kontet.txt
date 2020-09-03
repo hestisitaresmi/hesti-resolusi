@@ -3,7 +3,9 @@ Rencana konetent
   *prosa
   *pantun
   *novel sastra
-- membuat alih wahana suara
- ^teater suara
+- membuat alih wahana
+ *teater
+   ^appapun
+ *musikalisasi
 - membuat cerpen 
 - musikalisasi puisi
