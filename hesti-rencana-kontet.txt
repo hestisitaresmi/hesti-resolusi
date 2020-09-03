@@ -7,6 +7,5 @@ Rencana konetent
  *teater
    ^appapun
  *musikalisasi
- *drama suara
 - membuat cerpen 
 - musikalisasi puisi
