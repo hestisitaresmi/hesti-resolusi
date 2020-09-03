@@ -1,4 +1,6 @@
 Rencana konetent
 - membuat sajak
-- membuat cerpen
+  *prosa
+  *pantunt
+- membuat cerpen 
 - musikalisasi puisi
