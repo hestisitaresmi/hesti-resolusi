@@ -3,5 +3,10 @@ Rencana konetent
   *prosa
   *pantun
   *novel sastra
+- membuat alih wahana
+ *teater
+   ^appapun
+ *musikalisasi
+ *drama suara
 - membuat cerpen 
 - musikalisasi puisi
